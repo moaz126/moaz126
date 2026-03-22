@@ -62,8 +62,8 @@ Community app for sharing positivity. Clean UI, smooth animations, and social sh
 
 ## Connect
 
-- LinkedIn: [linkedin.com/in/YourUsername](https://linkedin.com/in/muhamadmoaz)
-- Email: your.email@gmail.com
+- LinkedIn: [linkedin.com/in/muhamadmoaz](https://linkedin.com/in/muhamadmoaz)
+- Email: moazk121@gmail.com
 - Portfolio: coming soon
 
 ---
