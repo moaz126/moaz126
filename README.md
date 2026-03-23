@@ -1,12 +1,12 @@
-# Hi, I'm Moaz Khan 👋
+# Hi, I'm Muhammad Moaz 👋
 
-**Flutter Developer · 3 Years Experience · Pakistan**
+**Flutter Developer · 3+ Years Experience · Pakistan**
 
 ---
 
 ## About me
 
-Flutter developer with 3 years of professional experience building production-grade mobile apps. I specialize in clean architecture, Bloc/Cubit state management, and integrating third-party services like Firebase and payment gateways. I've shipped apps on both the Play Store and App Store.
+Flutter developer with 3+ years of professional experience building production-grade mobile apps. I specialize in clean architecture, Bloc/Cubit state management, and integrating third-party services like Firebase and payment gateways. I've shipped apps on both the Play Store and App Store.
 
 Currently focused on deep-diving into system design and advanced Flutter patterns while working toward freelancing and building my own software products.
 
